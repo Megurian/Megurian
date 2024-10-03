@@ -19,20 +19,22 @@ Welcome to my GitHub profile! I'm always curious about new things and contributi
 Here's what you can find in my repositories and a bit about me:
 
 ## 🛠️ Skills & Tools <br>
-__Languages:__
-- PHP
-- Python
+__Languages:__ <br>
+![PHP](https://img.shields.io/badge/PHP-Intermediate-25be49)
+![Python](https://img.shields.io/badge/Python-Intermediate-25be49)
+![Java](https://img.shields.io/badge/Java-Beginner-yellow)
 
-__Web Development:__
-- HTML
-- CSS
+__Web Development:__ <br>
+![HTML](https://img.shields.io/badge/HTML-Advance-blue)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-25be49)
+![JS](https://img.shields.io/badge/JS-Intermediate-25be49)
   
-__Database:__
-- MySQL
+__Database:__<br>
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-25be49)
 
-__Tools:__
-- Visual Studio Code
-- MySQL Workbench
+__Tools:__ <br>
+![VS Code](https://img.shields.io/badge/VS_Code-Advance-blue)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-Intermediate-25be49)
 
 ## 📈 Current Projects & Contributions <br>
 🔐 Login-Signup System - A simple, secure login and signup system using PHP and MySQL for user authentication.
