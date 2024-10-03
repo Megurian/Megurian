@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Here's a professional and engaging GitHub README template you can use to showcase your profile:
-
-👋 Hello! I'm Meg!
+## 👋 Hello! I'm Meg! <br>
 Learning Developer | Tech Enthusiast | CS Student
 
 Welcome to my GitHub profile! I'm always curious about new things and contributing to interesting projects. 
