@@ -27,7 +27,7 @@ __Languages:__ <br>
 __Web Development:__ <br>
 ![HTML](https://img.shields.io/badge/HTML-Advance-blue)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-25be49)
-![JS](https://img.shields.io/badge/JS-Intermediate-25be49)
+![JS](https://img.shields.io/badge/JS-Beginner-yellow)
   
 __Database:__<br>
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-25be49)
