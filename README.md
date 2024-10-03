@@ -25,7 +25,7 @@ __Languages:__ <br>
 ![Java](https://img.shields.io/badge/Java-Beginner-yellow)
 
 __Web Development:__ <br>
-![HTML](https://img.shields.io/badge/HTML-Advance-blue)
+![HTML](https://img.shields.io/badge/HTML-Expert-red)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-25be49)
 ![JS](https://img.shields.io/badge/JS-Beginner-yellow)
   
