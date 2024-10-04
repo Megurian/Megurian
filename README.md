@@ -50,5 +50,5 @@ __Tools:__ <br>
 ## 💡 Get in Touch
 Feel free to reach out if you want to collaborate, discuss code, or just chat about tech!
 
-__Email__: okiller244@gmail.com
+__Email__: okiller244@gmail.com <br>
 Hope you find something useful here. Godspeed! 🚀
