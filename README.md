@@ -50,6 +50,5 @@ __Tools:__ <br>
 ## 💡 Get in Touch
 Feel free to reach out if you want to collaborate, discuss code, or just chat about tech!
 
-__Email__: eh202201078@wmsu.edu.ph
-
+__Email__: okiller244@gmail.com
 Hope you find something useful here. Godspeed! 🚀
