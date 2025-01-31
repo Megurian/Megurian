@@ -47,6 +47,10 @@ __Tools:__ <br>
 - __Advanced Database Management__ for optimizing and structuring data
 - __Web Security__ to ensure safe and secure web environments
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Megurian&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Megurian&langs_count=5&theme=tokyonight)]()
+
+
 ## 💡 Get in Touch
 Feel free to reach out if you want to collaborate, discuss code, or just chat about tech!
 
