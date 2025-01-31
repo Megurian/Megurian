@@ -23,6 +23,8 @@ __Languages:__ <br>
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-25be49)
 ![Python](https://img.shields.io/badge/Python-Intermediate-25be49)
 ![Java](https://img.shields.io/badge/Java-Beginner-yellow)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megurian&layout=compact&theme=dark)
 
 __Web Development:__ <br>
 ![HTML](https://img.shields.io/badge/HTML-Expert-red)
@@ -47,9 +49,10 @@ __Tools:__ <br>
 - __Advanced Database Management__ for optimizing and structuring data
 - __Web Security__ to ensure safe and secure web environments
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Megurian&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Megurian&langs_count=5&theme=tokyonight)]()
-
+<!--
+## My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Megurian&count_private=true&theme=dark&showicons=true)]()
+-->
 
 ## 💡 Get in Touch
 Feel free to reach out if you want to collaborate, discuss code, or just chat about tech!
