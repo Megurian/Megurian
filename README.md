@@ -24,7 +24,7 @@ __Languages:__ <br>
 ![Python](https://img.shields.io/badge/Python-Intermediate-25be49)
 ![Java](https://img.shields.io/badge/Java-Beginner-yellow)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megurian&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megurian&hide=html,css&layout=compact&theme=dark)
 
 __Web Development:__ <br>
 ![HTML](https://img.shields.io/badge/HTML-Expert-red)
