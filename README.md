@@ -39,12 +39,12 @@ __Tools:__ <br>
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-Intermediate-25be49)
 
 ## 📈 Current Projects & Contributions <br>
-🔐 Login-Signup System - A simple, secure login and signup system using PHP and MySQL for user authentication.
+PayNet - Centralized payment processing and record management web solution for universities.
 
 <br>__More exciting projects coming soon!__
 
 ## 🌱 What I'm Currently Learning
-- __Tailwind CSS__ for modern, responsive design
+- __Artificial Intelligence__ for analysis, prompting, and chatbot
 - __Advanced Web Development__ to build scalable and efficient web applications
 - __Advanced Database Management__ for optimizing and structuring data
 - __Web Security__ to ensure safe and secure web environments
