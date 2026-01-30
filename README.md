@@ -44,7 +44,7 @@ PayNet - Centralized payment processing and record management web solution for u
 <br>__More exciting projects coming soon!__
 
 ## 🌱 What I'm Currently Learning
-- __Artificial Intelligence__ for analysis, prompting, and chatbot
+- __Artificial Intelligence__ for analysis, computer vision model, and chatbot
 - __Advanced Web Development__ to build scalable and efficient web applications
 - __Advanced Database Management__ for optimizing and structuring data
 - __Web Security__ to ensure safe and secure web environments
